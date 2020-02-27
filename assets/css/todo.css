@@ -1,0 +1,154 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0 auto;
+  background-color: #51d0de;
+  max-width: 1200px;
+
+}
+h1{
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
+
+.color{
+  color: #bf4aa8;
+  background: none;
+}
+
+#bar{
+  color: white;
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  text-align: center;
+}
+  
+
+li {
+display: inline-block;
+}
+
+li a{
+  display:inline-block;
+  padding: 8px;
+  font-size: 30px;
+  color: purple;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #bf4aa8;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #81063F;
+}
+
+.yos{
+  height: 200px;
+  width: 400px;
+}
+
+figcaption {
+  color: #bf4aa8;
+  font-size: 60px;
+  
+}
+
+
+.todo-1{
+    border-image: linear-gradient(to right, #b861c6 0%,#ffc7c7 100%);
+  border-style: double;
+  border-image-slice: 1;
+  border-width: 4px;
+  border-radius: 20px;
+  
+}
+/* iframe */
+.mapouter
+{
+  
+  height:200px;
+  width:500px;
+  padding: 0px;
+  margin: 0px;
+  
+}
+.gmap_canvas 
+{
+  overflow:hidden;
+  background:none!important;
+  height:300px;
+  width:600px;
+ 
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+  
+  .def{
+  height: 200px;
+  width: 400px;
+}
+
+ h2{
+  color: #bf4aa8;
+  font-size: 60px;
+  display: flex;
+  align-items: flex-end;
+}
+
+p{
+  color: white;
+  font-size: 30px;
+  
+}
+ 
+  
+.yosem{
+    color: white;
+  font-size: 30px;
+}
+
+footer{
+  padding: 40px;
+  margin: 60px;
+   text-align: center;
+}
+
+.imgs{ 
+  display: flex;
+  justify-content: center;
+ align-items: flex-end;
+}
+
+.dv{
+  display: flex;
+  justify-content: flex-start;
+}
+
+a{
+  color: purple;
+}
+
+p{
+  color: #333300;
+}
+
+h1{
+  color: darkblue;
+}
+
+mark.color{
+  color: purple;
+}
+
+strong{ 
+  color: black;
+}

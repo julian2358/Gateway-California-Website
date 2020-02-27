@@ -1,0 +1,205 @@
+html {
+  background-color: #51d0de;
+  border-image: linear-gradient(to right, #b861c6 0%,#ffc7c7 100%);
+  border-style: double;
+  border-image-slice: 1;
+  border-width: 4px;
+
+}
+
+body{
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto; 
+}
+h1,h2{
+  display: inline;
+  
+}
+/* Page Header */
+h1{
+color: #FFFFFF;
+font-size: 30px;
+right: 20px;
+}
+
+h2{
+  color: #bf4aa8;
+  font-size: 80px;
+}
+
+/* silicon valley image */
+#sil {
+  margin: 20px 20px 20px 20px;
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: #51d0de;
+  float: right;
+}
+
+
+
+
+
+#google{
+  position: relative;
+  height: 13%;
+  width: 4%;
+  top: 16px;
+}
+
+h3 {
+  color: #bf4aa8;
+  font-size: 40px;
+  text-decoration: none; 
+  
+}
+
+h3, #google{
+  display: inline;
+}
+
+.reasons{
+  color: #bf4aa8;
+  font-size: 28px;
+}
+
+#reasons-g{
+  color: #FFFFFF;
+  font-size: 19px;
+}
+
+
+#twitter{
+  position: relative;
+  height: 10%;
+  width: 6%;
+  top: 20px;
+}
+
+h4 {
+  color: #bf4aa8;
+  font-size: 40px;
+  text-decoration: none; 
+  
+}
+
+h4, #twitter{
+  display: inline;
+}
+
+
+
+#reasons-t{
+  color: #FFFFFF;
+  font-size: 19px;
+}
+
+#facebook{
+  position: relative;
+  height: 10%;
+  width: 7%;
+  top: 20px;
+  right: 10px;
+}
+
+h5 {
+  color: #bf4aa8;
+  font-size: 40px;
+  text-decoration: none; 
+  
+}
+
+h5, #facebook{
+  display: inline;
+}
+
+
+
+#reasons-f{
+  color: #FFFFFF;
+  font-size: 19px;
+}
+
+
+/* Nav Bar */
+#bar{
+  color: darkmagenta;
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  border: 3px solid white;
+
+}
+
+li a{
+  
+  padding: 8px;
+  font-size: 30px;
+  color: darkgreen;
+  float: left;
+  left: 300px;
+  position: relative;
+  text-decoration: none;
+  margin: 15px;
+}
+
+li a:hover {
+  background-color: #bf4aa8;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #81063F;
+}
+
+footer{
+  padding: 40px;
+  margin: 60px;
+  
+  text-align: center;
+}
+
+p{
+  color: #bf4aa8;
+  font-size: 28px;
+}
+
+.desc{
+color: #ffffff;
+font-size: 20px;
+}
+
+li{
+  color: red;
+}
+
+p{
+  color: purple;
+}
+
+li{
+  color: purple;
+ 
+}
+
+a{
+  color: black;
+}
+
+p.desc{
+  color: black;
+}
+
+h1{
+  color: darkblue;
+}
+
+strong{
+  color: darkgoldenrod;
+}
+
+h2{
+  color: purple;
+}

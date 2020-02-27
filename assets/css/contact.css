@@ -1,0 +1,82 @@
+body{
+  background-color: #51d0de;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+  color: #bf4aa8;
+  text-decoration: underline;
+
+}
+
+form {
+  color: white;
+  font-size: 20px;
+  position: relative;
+}
+fieldset{
+border : 6px solid #fff;
+padding : 5px;
+
+}
+
+input{
+background-color : #9cf;
+color : #000;
+border : 2px double #bf4aa8;
+
+}
+
+textarea{
+  background-color : #9cf;
+color : #000;
+  border : 2px double #bf4aa8;
+}
+
+legend{
+  font-size: 35px;
+}
+
+#bar{
+  color: white;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+float: left;
+left: 370px;
+position: relative;
+}
+
+li a{
+  display:block;
+  padding: 8px;
+  font-size: 30px;
+  color: purple;
+  text-decoration: none;
+  
+}
+
+li a:hover {
+  background-color: #bf4aa8;
+  color: white;
+}
+
+footer{
+  padding: 40px;
+  margin: 60px;
+  text-align: center;
+}
+
+fieldset{
+  color: black;
+}
+
+strong{
+  color: purple;
+}
